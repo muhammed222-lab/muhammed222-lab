@@ -1,4 +1,5 @@
 # Hi there! I'm Olayemi 👋 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serrif&weight=600&duration=3000&pause=5&color=4B70FF&width=435&lines=I%E2%80%99m+a+Full-Stack+Web+Developer;+I+create+dynamic+and+cool+websites;Technology+I+use%3A;1.+Javascript;2.+TypeScript;3.+PHP;4.+HTML;5.+CSS;6.+ReactJs+;7.+NextJs;8.+Python)](https://git.io/typing-svg)
 
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
