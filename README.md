@@ -20,6 +20,7 @@ Hey! I'm **Olayemi**, a **Full Stack Web & Frontend Mobile App Developer**, **Gr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-47A248?style=for-the-badge&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-336791?style=for-the-badge&logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **🛠️ Tools & Platforms:**
